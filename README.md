@@ -3,6 +3,7 @@
 ## Requirements
 
 - Node 18+
+- Fastify 4+
 
 ## Installation
 
